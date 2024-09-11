@@ -41,7 +41,6 @@ npm run build
 - Сетевые запросы
 - Fetch | AXIOS | ky js
 - Сетевые запросы в React
-- Своя библиотека сетевых запросов
 - React-Router-DOM: loader
 - SWR (vercel)
 - React Query
